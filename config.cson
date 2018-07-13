@@ -1,0 +1,12 @@
+"*":
+  "atom-ide-ui":
+    use:
+      "atom-ide-diagnostics-ui": false
+  core:
+    telemetryConsent: "limited"
+  "exception-reporting":
+    userId: "af22b72e-da59-4a78-903b-df410f7ac23c"
+  "linter-ui-default":
+    showPanel: true
+  welcome:
+    showOnStartup: false
