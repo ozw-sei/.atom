@@ -1,0 +1,16 @@
+atom-typescript@12.5.3
+atomic-emacs@0.12.1
+busy-signal@1.4.3
+editorconfig@2.2.2
+file-icons@2.1.21
+git-plus@7.11.0
+intentions@1.1.5
+linter@2.2.0
+linter-tslint@1.9.1
+linter-ui-default@1.7.1
+prettier-atom@0.54.0
+pretty-json@2.0.1
+react@0.18.0
+show-ideographic-space@1.0.2
+terminal-plus@0.14.5
+
